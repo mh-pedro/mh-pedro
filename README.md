@@ -3,9 +3,11 @@
 -  My five years of teaching experience have further refined my communication and leadership skills, allowing me to convey complex ideas in an accessible manner and effectively lead teams. I’m eager to apply these abilities in data-driven environments.
 
 Contact me:
+<div>
+<a href = "ircefasjp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mhpedro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ircefasjp@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ana-paula-freire-de-ara%C3%BAjo-9434b7319/](https://www.linkedin.com/in/mhpedro/))
 
 ## Education
 
