@@ -49,8 +49,10 @@ Contact me:
 </div>
 
 ## Projects 
-
-
+### [Data Science Projects with Python](https://github.com/mh-pedro/Data-Science-Projects-with-Python)
+This is a study project using the book Data Science Projects with Python. The objective of this project is to learn from real and problems how to solve them by Data Science.
+### [Data Science from Zero](https://github.com/mh-pedro/Data-Science-from-zero)
+This is a study project using the book Data Science from Zero to learn more about the abilities and structure of Data Science.
 
 ## Languages: 
  -  Portuguese, Native.
