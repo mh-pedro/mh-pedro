@@ -13,7 +13,7 @@ Contact me:
 
 - Visitant Student at University of L'Aquila, Italy || May. 2024 - Nov. 2024
 - PhD Student in Physics at the Federal University of Paraíba, Brazil || Aug. 2021 - Jul. 2025
-- Master's Student in Physics Energy at the Federal University of Paraíba, Brazil || Aug. 2019 - Jul. 2021
+- Master's Degree in Physics Energy at the Federal University of Paraíba, Brazil || Aug. 2019 - Jul. 2021
 - Physics at the Federal University of Paraíba, Brazil || May. 2013 - Sept. 2019
 
 ## Hard skills: 
