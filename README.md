@@ -1,5 +1,5 @@
 # Hi, I'm Pedro Henrique Morais 👋
-- I have a Ph.D. in Astrophysics transitioning into Data Science and Data Analysis, with a strong focus on leadership, self-motivation, and cultural adaptability. During my PhD, I developed advanced problem-solving skills and gained significant expertise in analyzing large datasets using tools such as Python, NumPy, Pandas, and SciPy for predictive modeling and scientific analysis.
+- I have a Ph.D. in Astrophysics and Data Science and Data Analysis, with a strong focus on leadership, self-motivation, and cultural adaptability. During my PhD, I developed advanced problem-solving skills and gained significant expertise in analyzing large datasets using tools such as Python, NumPy, Pandas, and SciPy for predictive modeling and scientific analysis.
 -  My five years of teaching experience have further refined my communication and leadership skills, allowing me to convey complex ideas in an accessible manner and effectively lead teams. I’m eager to apply these abilities in data-driven environments.
 
 Contact me:
